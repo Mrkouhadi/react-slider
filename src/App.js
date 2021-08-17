@@ -55,7 +55,7 @@ function App() {
       </h2>
     </div>
     <div className="section-center">
-      {renderReviews()}
+      { renderReviews() }
       <button onClick={previousSlide} className="prev"><FiChevronLeft/> </button>
       <button onClick={nextSlide} className="next"><FiChevronRight/> </button>
     </div>
@@ -63,3 +63,4 @@ function App() {
 }
 
 export default App;
+
