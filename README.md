@@ -1,5 +1,3 @@
-# react-projects-7-slider
+# React-Slider
+A Slider (with an autoplay) made in Reactjs , and without any libraries.
 
-#### IN ACTION
-
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
